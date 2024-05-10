@@ -91,7 +91,7 @@ public class TP12Lab {
         int filas = ps.executeUpdate();
         
         if (filas > 0) {
-            System.out.println("Se ha agregado el alumno: " + nombre + " " + apellido);
+            System.out.println("Se ha agregado el empleado: " + nombre + " " + apellido);
         }
     }
     
